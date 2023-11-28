@@ -1,5 +1,3 @@
-puppy
-canine
-wolf
-bark
-bow wow
+rocky
+tommy
+bruno
